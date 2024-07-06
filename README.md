@@ -13,23 +13,23 @@ This is my assignment submission for the HNG stage two task. I was tasked to cre
 
 ### Home Screen displaying my list of products.
 
-![Products Screen](screenshots/home_page.png)
+<img src="screenshots/home_page.png" alt="Products Screen" width="300"/>
 
 ### Description screen displaying item information
 
-![Checkout Screen](screenshots/item_view.png)
+<img src="screenshots/item_view.png" alt="Checkout Screen" width="300"/>
 
 ### Profile screen to add more completion
 
-![Checkout Screen](screenshots/profile_page.png)
+<img src="screenshots/profile_page.png" alt="Checkout Screen" width="300"/>
 
 ### Home Screen displaying my list of products in dark mode.
 
-![Products Screen Dark](screenshots/home_page_dark.png)
+<img src="screenshots/home_page_dark.png" alt="Products Screen Dark" width="300"/>
 
 ### Description screen displaying item information in dark mode
 
-![Checkout Screen](screenshots/img_view_desc_dark.png)
+<img src="screenshots/img_view_desc_dark.png" alt="Checkout Screen" width="300"/>
 
 ## Setup Instructions
 
