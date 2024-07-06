@@ -19,16 +19,14 @@ This is my assignment submission for the HNG stage two task. I was tasked to cre
     <td>
       <img src="screenshots/item_view.png" alt="Checkout Screen" width="200"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="screenshots/profile_page.png" alt="Checkout Screen" width="200"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="screenshots/home_page_dark.png" alt="Products Screen Dark" width="200"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="screenshots/img_view_desc_dark.png" alt="Checkout Screen" width="200"/>
     </td>
