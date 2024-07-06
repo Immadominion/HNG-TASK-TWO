@@ -35,7 +35,7 @@ class CardWidget extends StatelessWidget {
       },
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.white,
+          color: Theme.of(context).colorScheme.primaryContainer,
           borderRadius: BorderRadius.circular(20),
           boxShadow: [
             BoxShadow(color: Colors.black.withOpacity(.05), blurRadius: 50),
@@ -46,23 +46,26 @@ class CardWidget extends StatelessWidget {
             Container(
               width: double.maxFinite,
               height: w / 2.6,
-              decoration: const BoxDecoration(
-                color: Colors.white,
-                borderRadius: BorderRadius.vertical(
+              decoration: BoxDecoration(
+                color: Theme.of(context).colorScheme.primaryContainer,
+                borderRadius: const BorderRadius.vertical(
                   top: Radius.circular(20),
                 ),
               ),
               alignment: Alignment.center,
-              child: CachedNetworkImage(
-                imageUrl: "https://api.timbu.cloud/images/$imageUrl",
-                fit: BoxFit.contain,
-                width: double.maxFinite,
-                height: w / 2.6,
-                placeholder: (context, url) =>
-                    const Center(child: CircularProgressIndicator()),
-                errorWidget: (context, url, error) => const Icon(
-                  Icons.error,
-                  color: Colors.red,
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(20),
+                child: CachedNetworkImage(
+                  imageUrl: "https://api.timbu.cloud/images/$imageUrl",
+                  fit: BoxFit.fill,
+                  width: double.maxFinite,
+                  height: w / 2.6,
+                  placeholder: (context, url) =>
+                      const Center(child: CircularProgressIndicator()),
+                  errorWidget: (context, url, error) => const Icon(
+                    Icons.error,
+                    color: Colors.red,
+                  ),
                 ),
               ),
             ),
@@ -85,7 +88,7 @@ class CardWidget extends StatelessWidget {
                     softWrap: true,
                     overflow: TextOverflow.ellipsis,
                     style: TextStyle(
-                      color: Colors.black.withOpacity(.8),
+                      color: Theme.of(context).colorScheme.onSurface,
                       fontSize: 11,
                       fontWeight: FontWeight.w500,
                       fontFamily: "Montesserat",
@@ -101,7 +104,7 @@ class CardWidget extends StatelessWidget {
                       fontWeight: FontWeight.w600,
                       fontSize: 8,
                       fontFamily: "Montesserat",
-                      color: Colors.black.withOpacity(.7),
+                      color: Theme.of(context).colorScheme.onSurface,
                     ),
                   ),
                 ],

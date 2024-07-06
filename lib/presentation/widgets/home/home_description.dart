@@ -50,7 +50,7 @@ class HomeDescription extends StatelessWidget {
                   softWrap: true,
                   overflow: TextOverflow.ellipsis,
                   style: TextStyle(
-                    color: Colors.black.withOpacity(.8),
+                    color: Theme.of(context).colorScheme.onSurface,
                     fontSize: 15,
                     fontWeight: FontWeight.bold,
                     fontFamily: "Montesserat",
@@ -66,7 +66,7 @@ class HomeDescription extends StatelessWidget {
                     fontWeight: FontWeight.w600,
                     fontSize: 13,
                     fontFamily: "Montesserat",
-                    color: Colors.black.withOpacity(.7),
+                    color: Theme.of(context).colorScheme.onSurface,
                   ),
                 ),
                 Text(
@@ -79,7 +79,7 @@ class HomeDescription extends StatelessWidget {
                     fontWeight: FontWeight.w600,
                     fontSize: 11,
                     fontFamily: "Montesserat",
-                    color: Colors.black.withOpacity(.7),
+                    color: Theme.of(context).colorScheme.onSurface,
                   ),
                 ),
               ],
