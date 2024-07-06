@@ -11,25 +11,29 @@ This is my assignment submission for the HNG stage two task. I was tasked to cre
 
 ## Screenshots
 
-### Home Screen displaying my list of products.
-
-<img src="screenshots/home_page.png" alt="Products Screen" width="200"/>
-
-### Description screen displaying item information
-
-<img src="screenshots/item_view.png" alt="Checkout Screen" width="200"/>
-
-### Profile screen to add more completion
-
-<img src="screenshots/profile_page.png" alt="Checkout Screen" width="200"/>
-
-### Home Screen displaying my list of products in dark mode.
-
-<img src="screenshots/home_page_dark.png" alt="Products Screen Dark" width="200"/>
-
-### Description screen displaying item information in dark mode
-
-<img src="screenshots/img_view_desc_dark.png" alt="Checkout Screen" width="200"/>
+<table>
+  <tr>
+    <td>
+      <img src="screenshots/home_page.png" alt="Products Screen" width="200"/>
+    </td>
+    <td>
+      <img src="screenshots/item_view.png" alt="Checkout Screen" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/profile_page.png" alt="Checkout Screen" width="200"/>
+    </td>
+    <td>
+      <img src="screenshots/home_page_dark.png" alt="Products Screen Dark" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/img_view_desc_dark.png" alt="Checkout Screen" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ## Setup Instructions
 
