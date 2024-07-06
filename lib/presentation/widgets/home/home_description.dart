@@ -70,6 +70,19 @@ class HomeDescription extends StatelessWidget {
                   ),
                 ),
                 Text(
+                  "Created on ${formattedCreatedAt(product.dateCreated ?? "")}",
+                  textScaler: const TextScaler.linear(1.4),
+                  maxLines: 1,
+                  softWrap: true,
+                  overflow: TextOverflow.ellipsis,
+                  style: TextStyle(
+                    fontWeight: FontWeight.w400,
+                    fontSize: 9,
+                    fontFamily: "Montesserat",
+                    color: Theme.of(context).colorScheme.onSurface,
+                  ),
+                ),
+                Text(
                   product.description ?? "No description",
                   textScaler: const TextScaler.linear(1.4),
                   maxLines: 10,

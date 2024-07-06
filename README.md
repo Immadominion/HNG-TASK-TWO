@@ -11,17 +11,25 @@ This is my assignment submission for the HNG stage two task. I was tasked to cre
 
 ## Screenshots
 
-### Products screen displaying a list of products.
+### Home Screen displaying my list of products.
 
-![Products Screen](screenshots/products-screen.png)
+![Products Screen](screenshots/home_page.png)
 
-### Checkout screen displaying items added for checkout.
+### Description screen displaying item information
 
-![Checkout Screen](screenshots/checkout-screen.png)
+![Checkout Screen](screenshots/item_view.png)
 
-### Order successful screen confirming the order.
+### Profile screen to add more completion
 
-![Order Successful Screen](screenshots/order-success-screen.png)
+![Checkout Screen](screenshots/profile_page.png)
+
+### Home Screen displaying my list of products in dark mode.
+
+![Products Screen Dark](screenshots/home_page_dark.png)
+
+### Description screen displaying item information in dark mode
+
+![Checkout Screen](screenshots/img_view_desc_dark.png)
 
 ## Setup Instructions
 
@@ -53,37 +61,42 @@ This is my assignment submission for the HNG stage two task. I was tasked to cre
 
 ## Appetize Demo
 
-- You can view a live demo of the app on Appetize.io ([here](https://appetize.io/app/6fjrlfbjvtm2gv5nqkmundefwy?device=pixel7&osVersion=13.0))
+- You can view a live demo of the app on Appetize.io ==> ([here](https://appetize.io/app/b_cuavp4bfsskrtx3l7jfmezkyhy))
 
 ## Project Structure
 
     lib/
+    |- core/
+    |   |- constants/
+    |   |   |- enum.dart
+    |- data/
+    |   |- model/
+    |   |   |- product_model.dart
+    |   |   |- profile.json
+    |   |- controllers/
+    |   |   |- base_controller.dart
+    |   |   |- dashboard_controller.dart
+    |   |   |- products_controller.dart
+    |   |   |- switch_controller.dart
+    |   |   |- theme_notifier.dart
+    |   |- services/
+    |   |   |- dio_mixin.dart
+    |   |   |- error_service.dart
+    |   |   |- product_services.dart
+    |- presentation/
+    |   |- screens/
+    |   |    |   |- home.dart
+    |   |    |   |- profile.dart
+    |   |- widgets/
+    |    |   |   |- home/
+    |    |   |   |   |- card_widget.dart
+    |    |   |   |   |- home_description.dart
+    |    |   |   |   |- home_image.dart
+    |    |   |   |- profile/
+    |    |   |   |   |- profile_stat.dart
+    |    |   |- my_fade_route.dart
+    |    |   |- shimmer.dart
+    |- utils/
+    |   |- locator.dart
+    |- home.dart
     |- main.dart
-    |- models/
-    |   |- product.dart
-    |- screens/
-    |   |- products_screen.dart
-    |   |- checkout_screen.dart
-    |   |- order_successful_screen.dart
-    |- widgets/
-    |- product_item.dart
-
-## Code Overview
-
-### Models
-
-- Product Model (lib/models/product.dart): Defines the structure of a product with id, title, and price.
-
-### Screens
-
-- Products Screen (lib/screens/products_screen.dart): Displays a list of products.
-- Checkout Screen (lib/screens/checkout_screen.dart): Displays the products added for checkout and a button to navigate to the order successful screen.
-- Order Successful Screen (lib/screens/order_successful_screen.dart): Displays a message confirming the order.
-
-### Widgets
-
-- Product Item Widget (lib/widgets/product_item.dart): Represents a single product item in the list.
-
-### Main file
-
-- Main File (lib/main.dart): Contains the main entry point of the app, sets up navigation, and manages the state of the checkout list.

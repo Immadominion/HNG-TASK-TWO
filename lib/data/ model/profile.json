@@ -1,0 +1,548 @@
+{
+    "page": 1,
+    "size": 10,
+    "total": 10,
+    "debug": null,
+    "previous_page": null,
+    "next_page": null,
+    "items": [
+        {
+            "name": "falzTheBahdGuy",
+            "description": null,
+            "unique_id": "IS189675P",
+            "url_slug": "falzthebahdguy",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "8d2675a3fd124dd5bda7e26e82734a8d",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-06T10:52:28",
+            "last_updated": "2024-07-06T10:52:28",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "8d2675a3fd124dd5bda7e26e82734a8d",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "50533edb88b241cfbedd7645d0a54b96.jpg",
+                    "url": "istore/product_falzthebahdguy_66069d_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": null
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "theManHimself",
+            "description": null,
+            "unique_id": "IS189674P",
+            "url_slug": "themanhimself",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "d5af12d252af46dbb348d593d9b1229a",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-06T10:51:51",
+            "last_updated": "2024-07-06T10:51:51",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "d5af12d252af46dbb348d593d9b1229a",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "91782a7e97f04905b574278a0dec3075.jpg",
+                    "url": "istore/product_themanhimself_2c7833_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": null
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "iPad Air Plus",
+            "description": "Experience the versatility of the iPad Air Plus. Whether you’re sketching your next masterpiece or streaming your favorite shows, this tablet offers exceptional performance and stunning visuals. Lightweight and powerful, it’s the perfect companion for work and play.",
+            "unique_id": "1",
+            "url_slug": "ipad",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "d7e907170af54618a83690e3b267145a",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-05T03:59:17",
+            "last_updated": "2024-07-05T05:16:09",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "d7e907170af54618a83690e3b267145a",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "097defef8c4747dfb184074a36bbd889.jpg",
+                    "url": "istore/product_ipad_a5eab7_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": null
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "iKeyboard",
+            "description": null,
+            "unique_id": "4",
+            "url_slug": "ikeyboard",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "28605d2a393041e28d4ee1e9a5460035",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-06T10:44:01",
+            "last_updated": "2024-07-06T10:44:01",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "28605d2a393041e28d4ee1e9a5460035",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "0e6beddd0155457c9391d7bea638a82a.jpg",
+                    "url": "istore/product_ikeyboard_f41799_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": [
+                        35000.0,
+                        null,
+                        []
+                    ]
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "iBed",
+            "description": null,
+            "unique_id": "2",
+            "url_slug": "ibed",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "7368987788ad480fa86af5f476f97eab",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-05T04:00:20",
+            "last_updated": "2024-07-05T04:00:20",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "7368987788ad480fa86af5f476f97eab",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "0ce95c6bb6044c87bab8f8d7d54c2d91.jpg",
+                    "url": "istore/product_ibed_45724e_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": [
+                        500000.0,
+                        null,
+                        []
+                    ]
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "iBook",
+            "description": null,
+            "unique_id": "IS189672P",
+            "url_slug": "ibook",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "8aaaca24678a4dd0be26175978eb2146",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-06T10:48:20",
+            "last_updated": "2024-07-06T10:48:20",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "8aaaca24678a4dd0be26175978eb2146",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "ed3468ca607e4e369ce38d4b1b59ab17.jpg",
+                    "url": "istore/product_ibook_3be2aa_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": [
+                        900000.0,
+                        null,
+                        []
+                    ]
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "iMage",
+            "description": null,
+            "unique_id": "IS189676P",
+            "url_slug": "image",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "49f996b1befe4cb2b8a2c52eeee31a87",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-06T10:53:10",
+            "last_updated": "2024-07-06T10:53:10",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "49f996b1befe4cb2b8a2c52eeee31a87",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "01bbe2d9b3e34345979a4ab680feeda1.jpg",
+                    "url": "istore/product_image_53e2f2_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": [
+                        1000000.0,
+                        null,
+                        []
+                    ]
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "iTv plus",
+            "description": null,
+            "unique_id": "3",
+            "url_slug": "itv-plus",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "c97174d3a7704e20a70a1b13c6d26b51",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-05T04:01:16",
+            "last_updated": "2024-07-05T04:01:16",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "c97174d3a7704e20a70a1b13c6d26b51",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "c3497f042ecd4aa7bd45b52c776cf490.jpg",
+                    "url": "istore/product_itv_plus_abdd17_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": [
+                        1000000.0,
+                        null,
+                        []
+                    ]
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "iPhone",
+            "description": "Discover the future of smartphones with iPhone Ultra. Featuring a stunning edge-to-edge display, ultra-fast performance, and a pro-grade camera system, this device is designed to elevate your mobile experience. Capture, connect, and create like never before.",
+            "unique_id": "IS189671P",
+            "url_slug": "iphone",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "93132f8935c947c6bf4e49de9515d30f",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-06T10:44:51",
+            "last_updated": "2024-07-06T10:45:43",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "93132f8935c947c6bf4e49de9515d30f",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "241ad1fa8a2e46cb96da3b6b89a32edd.jpg",
+                    "url": "istore/product_iphone_f535b7_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": [
+                        1050000.0,
+                        null,
+                        []
+                    ]
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        },
+        {
+            "name": "iTooComposePack",
+            "description": null,
+            "unique_id": "IS189673P",
+            "url_slug": "itoocomposepack",
+            "is_available": true,
+            "is_service": false,
+            "previous_url_slugs": null,
+            "unavailable": false,
+            "unavailable_start": null,
+            "unavailable_end": null,
+            "id": "773bbd1dfb5049a888fa816836a287c7",
+            "parent_product_id": null,
+            "parent": null,
+            "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+            "stock_id": null,
+            "product_image": [],
+            "categories": [],
+            "date_created": "2024-07-06T10:50:58",
+            "last_updated": "2024-07-06T10:50:58",
+            "user_id": "0521eae5ed744bb9a882f3a030e85b9b",
+            "photos": [
+                {
+                    "model_name": "products",
+                    "model_id": "773bbd1dfb5049a888fa816836a287c7",
+                    "organization_id": "fd07a934a2904e4abd71fcfeabff74a4",
+                    "filename": "a928321539cf43a5a29f8cfd724a57c5.jpg",
+                    "url": "istore/product_itoocomposepack_6c737d_1.jpg",
+                    "is_featured": false,
+                    "save_as_jpg": true,
+                    "is_public": true,
+                    "file_rename": false,
+                    "position": 1
+                }
+            ],
+            "prices": null,
+            "stocks": null,
+            "current_price": [
+                {
+                    "NGN": [
+                        90909100000000.0,
+                        null,
+                        []
+                    ]
+                }
+            ],
+            "is_deleted": false,
+            "available_quantity": null,
+            "selling_price": null,
+            "discounted_price": null,
+            "buying_price": null,
+            "extra_infos": null,
+            "featured_reviews": null,
+            "unavailability": []
+        }
+    ]
+}
