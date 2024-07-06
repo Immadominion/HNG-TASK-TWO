@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_null_comparison
+
 class Product {
   int? page;
   int? size;
@@ -201,8 +203,6 @@ class Items {
     data['unavailability'] = unavailability;
     return data;
   }
-
-  
 }
 
 class Photos {
